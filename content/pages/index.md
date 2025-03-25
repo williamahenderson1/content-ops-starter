@@ -232,7 +232,7 @@ sections:
     plans:
       - type: PricingPlan
         title: Standard Plan
-        price: Free
+        price: $39/month
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
