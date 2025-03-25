@@ -298,9 +298,9 @@ sections:
         title: +5/month for deodorizing spray
         price: $5
         details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Enhance your service with our deodorizing spray, keeping your bins
+          fresh and odor-free for just $5 more per month.
         features:
           - Feature one
           - Feature two
