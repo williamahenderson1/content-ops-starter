@@ -272,7 +272,7 @@ sections:
         features:
           - Feature one
           - Feature $39/month for 2 bins
-          - Feature three
+          - + $5/month for deodorizing spray
           - Feature four
         image:
           type: ImageBlock
