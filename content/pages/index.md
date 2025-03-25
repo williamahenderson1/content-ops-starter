@@ -238,7 +238,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - $39/month for 2 bins
           - Feature two
           - Feature three
           - Feature four
