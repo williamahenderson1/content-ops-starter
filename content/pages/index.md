@@ -263,7 +263,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: +5/month per extra bin
         price: $99
         details: per month
         description: >-
