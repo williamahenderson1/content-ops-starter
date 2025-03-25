@@ -265,7 +265,7 @@ sections:
       - type: PricingPlan
         title: +5/month per extra bin
         price: $5
-        details: per month
+        details: per extra bin
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
