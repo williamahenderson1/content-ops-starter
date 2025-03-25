@@ -296,7 +296,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: +5/month for deodorizing spray
-        price: Custom
+        price: $5
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
