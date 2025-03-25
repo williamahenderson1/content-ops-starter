@@ -236,7 +236,7 @@ sections:
         details: for 2 bins
         description: >
           Our weekly bin pull-out and return service ensures you never have to
-          touch your bins again. Sign up now for hassle-free waste management
+          touch your bins again. Sign up now for hassle-free waste managemen
         features:
           - ''
           - $39/month for 2 bins
