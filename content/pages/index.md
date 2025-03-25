@@ -271,7 +271,7 @@ sections:
           Convenient and affordable!
         features:
           - Feature one
-          - Feature two
+          - Feature $39/month for 2 bins
           - Feature three
           - Feature four
         image:
