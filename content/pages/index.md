@@ -266,9 +266,9 @@ sections:
         title: +5/month per extra bin
         price: $5
         details: per extra bin
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Add extra bins to your service for only $5 more per bin each month.
+          Convenient and affordable!
         features:
           - Feature one
           - Feature two
