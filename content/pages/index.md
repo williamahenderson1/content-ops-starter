@@ -233,7 +233,7 @@ sections:
       - type: PricingPlan
         title: Standard Plan
         price: $39/month
-        details: No credit card required
+        details: for 2 bins
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
