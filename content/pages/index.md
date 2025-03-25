@@ -248,7 +248,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Try fo freeSign Up Now
+            label: Sign Up Now
             url: /
             icon: arrowRight
             iconPosition: right
