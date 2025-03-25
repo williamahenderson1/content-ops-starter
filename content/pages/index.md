@@ -239,7 +239,7 @@ sections:
           touch your bins again. Sign up now for hassle-free waste management.
         features:
           - $39/month for 2 bins
-          - Feature tw
+          - ''
           - Feature three
           - Feature four
         image:
