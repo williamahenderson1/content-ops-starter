@@ -234,9 +234,9 @@ sections:
         title: Standard Plan
         price: $39/month
         details: for 2 bins
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Our weekly bin pull-out and return service ensures you never have to
+          touch your bins again. Sign up now for hassle-free waste management.
         features:
           - $39/month for 2 bins
           - Feature two
